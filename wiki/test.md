@@ -3,6 +3,6 @@ layout: default
 published: true
 ---
 
-# Oh Noes!!
+## Oh Noes!!
 
 It's a wiki
