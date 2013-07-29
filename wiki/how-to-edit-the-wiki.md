@@ -20,10 +20,10 @@ When you edit a page, Prose will clone this website into your GitHub account, sa
 ### Creating a New Page
 
 1. Click on "Create a new page" on the left
-2. Change the name of the file. It will start with something like
+2. Change the name of the file. It will start with something like  
        2013-07-29-your-filename.md
    Change that to what you want (without the date... unless you really want it).
-3. **IMPORTANT**: Click on the "Meta Data" icon on the right and enter
+3. **IMPORTANT**: Click on the "Meta Data" icon on the right and enter  
        layout: default
    If you miss this step your page won't show up correctly. You can always go back if you forget...
 4. Save your changes by clicking the disk icon on the right
