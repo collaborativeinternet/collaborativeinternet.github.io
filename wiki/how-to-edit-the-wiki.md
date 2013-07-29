@@ -13,7 +13,7 @@ This wiki is hosted on [GitHub Pages](http://pages.github.com) and uses [Prose](
 
 2. Prose will ask you to authorize on GitHub. If you already have a GitHub account, sign in. Otherwise create a new one.
 
-3. ...
+3. Do your thing
 
 4. Preview your changes by clicking on the eye icon on the right
 
