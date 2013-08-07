@@ -14,4 +14,4 @@ August 6th, 2013
 7:00 PM PST
 Online
 
-## [archives](http://collaborativeinter.net/wiki/archives.md)
+## [archives](http://collaborativeinter.net/wiki/archives.html)
