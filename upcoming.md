@@ -1,3 +1,7 @@
+---
+layouts: default
+---
+
 # upcoming events
 8/13/2013
 7:00 pm
