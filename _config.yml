@@ -5,6 +5,4 @@ prose:
         field:
           element: "hidden"
           value: "default"
-#  siteurl: "http://collaborativeinter.net/"
-#  rooturl: "wiki"
   media: "media"
