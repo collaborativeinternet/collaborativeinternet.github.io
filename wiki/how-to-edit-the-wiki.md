@@ -26,12 +26,10 @@ When you edit a page, Prose will clone this website into your GitHub account, sa
 3. **IMPORTANT**: Click on the "Meta Data" icon on the right and enter  
    `layout: default`. If you miss this step your page won't show up correctly. 
    You can always go back if you forget...
-   NOTE: If for some reason the "Meta Data" icon does not show up, you will need to place the following text at the top of the page:  
-   
+   NOTE: If for some reason the "Meta Data" icon does not show up, you will need to place the following text at the top of the page:     
     ---  
     layouts: default  
     ---  
-
 Be sure to include the three dashes on top and bottom.  This code creates meta-data instructions about layout directly into the file.  Without those instructions, a .md (markdown) page won't be served.  See section on metadata [here](http://developmentseed.org/blog/2012/june/25/prose-a-content-editor-for-github/) or check out the details [here](http://jekyllrb.com/docs/frontmatter/) for a bit of an explanation.   
 4. Save your changes by clicking the disk icon on the right
 
