@@ -5,9 +5,7 @@ published: true
 
 ## BUILD THE COLLABORATIVE INTERNET
 Feel compelled to build the tools for a better society.
-Find "your people" hacking the future at our weekly meetup.
-
-A weekly digital unconference
+Find "your people" hacking the future at our weekly digital unconference.
 
 ### Upcoming Meetups
 Wednesday, August 14th, 2013  
