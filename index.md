@@ -7,7 +7,7 @@ published: true
 Feel compelled to build the tools for a better society.
 Find "your people" hacking the future at our weekly meetup.
 
-Every Tuesday at 7:00 PM PST.
+A weekly digital unconference
 
 ### Upcoming Meetups
 Wednesday, August 14th, 2013  
