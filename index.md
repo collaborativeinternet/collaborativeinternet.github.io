@@ -14,4 +14,3 @@ Wednesday, August 14th, 2013
 
 Wednesday, August 21st, 2013  
 7:00 PM PST - 11:00 PM PST  
-//[Coordination Google Doc](https://docs.google.com/spreadsheet/ccc?key=0Aqe_OvhjNeDPdHBfb25YTnYzQXNlZG5PSUduazhER0E#gid=0)
