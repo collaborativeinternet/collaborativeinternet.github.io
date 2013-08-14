@@ -1,0 +1,7 @@
+prose:
+  metadata:
+    wiki:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "default"
