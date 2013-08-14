@@ -27,6 +27,7 @@ When you edit a page, Prose will clone this website into your GitHub account, sa
    `layout: default`. If you miss this step your page won't show up correctly. 
    You can always go back if you forget...
    NOTE: If for some reason the "Meta Data" icon does not show up, you will need to place the following text at the top of the page:  
+   
     ---  
     layouts: default  
     ---  
