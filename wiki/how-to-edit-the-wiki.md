@@ -31,7 +31,7 @@ When you edit a page, Prose will clone this website into your GitHub account, sa
     layouts: default  
     ---  
 
-This writes meta-data about layout write into the file.  See section on metadata [here](http://developmentseed.org/blog/2012/june/25/prose-a-content-editor-for-github/) or check out the details [here](http://jekyllrb.com/docs/frontmatter/) for a bit of an explanation. 
+Be sure to include the three dashes on top and bottom.  This code creates meta-data instructions about layout directly into the file.  Without those instructions, a .md (markdown) page won't be served.  See section on metadata [here](http://developmentseed.org/blog/2012/june/25/prose-a-content-editor-for-github/) or check out the details [here](http://jekyllrb.com/docs/frontmatter/) for a bit of an explanation. 
 4. Save your changes by clicking the disk icon on the right
 
 ### Linking Between Pages
