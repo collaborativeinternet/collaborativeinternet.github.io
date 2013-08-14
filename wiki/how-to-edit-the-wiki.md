@@ -1,6 +1,6 @@
 ---
-published: true
 layout: default
+published: true
 ---
 
 ## How to Edit This Wiki
@@ -45,3 +45,4 @@ Note that the name of the file in the link, as well as in the browser, ends with
 ### Gotchas
 
 - Prose is good at many things, but if you start clicking around on the dropdown menu on the left it *will* lose any unsaved changes. Save early and save often, just to be sure!
+- The current version of Prose (as of 2013-08-13) has trouble keeping up with changes. If you delete a file and it doesn't disappear, or if there are other things in the UI that should happen but don't, then do a hard refresh (Ctrl+Shift+R or Cmd+Shift+R).
