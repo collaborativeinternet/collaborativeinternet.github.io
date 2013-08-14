@@ -1,3 +1,8 @@
+---
+layout: default
+published: false
+---
+
 ###ARCHIVES
 This is our online repository for media from past meetups. Content is organized by date.
 
