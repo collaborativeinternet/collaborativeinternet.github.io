@@ -10,12 +10,16 @@ Find "your people" hacking the future at our weekly digital unconference.
 ### Upcoming Meetups
 Wednesday, August 21st, 2013  
 7:00 PM PST - 11:00 PM PST  
-[Coordination Google Doc](https://docs.google.com/spreadsheet/ccc?key=0Aqe_OvhjNeDPdHBfb25YTnYzQXNlZG5PSUduazhER0E&usp=sharing)
+[Coordination Google Doc](https://docs.google.com/spreadsheet/ccc?key=0Aqe_OvhjNeDPdHBfb25YTnYzQXNlZG5PSUduazhER0E&usp=sharing)  
+  
 Want to participate?  Thinking about hosting a session?  Get all signed up, set up and verified.  A nice little instruction guide is [here](http://mackwebsolutions.com/blog/2012/08/the-comprehensiveish-guide-to-google-hangouts/). 
+  
     
+  
 Tuesday, August 27th, 2013  
 7:00 PM PST - 11:00 PM PST
-
-
-
+  
+  
+  
+  
 ###[Archives](http://collaborativeinter.net/archives.html)
