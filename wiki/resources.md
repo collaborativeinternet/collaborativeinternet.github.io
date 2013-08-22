@@ -1,3 +1,8 @@
+---
+layout: default
+published: true
+---
+
 Topics
 =======
 Data Structure
