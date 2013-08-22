@@ -50,3 +50,13 @@ Information
 - How and WHY to build out a proper global infrastructure... <http://www.ecitizen.tv/2013/04/towards-trustworthy-digital.html>
 
 
+Notes
+=====
+
+(Most of) the links above were gathered from the [Build the Collaborative Internet Google+ Community](https://plus.google.com/communities/105936116412690489921).  The posts we have reviewed so far are:
+- xx April 2013 - 21 Aug 2013
+- 6 Feb 2013
+
+Please review more posts and add more links and update the information above!
+
+Also feel free to add any other resources to this page.
