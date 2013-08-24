@@ -22,4 +22,4 @@ Want to participate?  Thinking about hosting a session?  Get all signed up, set 
   
   
 ###[Archives](http://collaborativeinter.net/archives.html)
-###[Press](http://collaborativeinter.net/press.html)
+###[Press](http://collaborativeinter.net/wiki/press.html)
