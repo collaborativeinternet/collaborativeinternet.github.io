@@ -35,13 +35,5 @@ Propose it in our [Google Coordination Doc](https://docs.google.com/spreadsheet/
 
   
 
-Want to participate?  Thinking about hosting a session?  Get all signed up, set up and verified.  A nice little instruction guide on getting set up both for Google Hangouts and to host Hangouts on Air is about halfway down [this article](http://mackwebsolutions.com/blog/2012/08/the-comprehensiveish-guide-to-google-hangouts/). 
-  
-    
-  
-  
-  
-  
-  
-###[Archives](http://collaborativeinter.net/archives.html)
-###[Press](http://collaborativeinter.net/wiki/press.html)
+Want to participate?  Thinking about hosting a session?  
+Get all signed up, set up and verified.  A nice little instruction guide on getting set up both for Google Hangouts and to host Hangouts on Air is about halfway down [this article](http://mackwebsolutions.com/blog/2012/08/the-comprehensiveish-guide-to-google-hangouts/). 
