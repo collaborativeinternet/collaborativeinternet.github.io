@@ -40,6 +40,7 @@ Geek Tools
 
 Information
 --------
+- World Economic Forum report: [Personal Data: The emergence of a new asset class](http://www3.weforum.org/docs/WEF_ITTC_PersonalDataNewAsset_Report_2011.pdf)  
 - Learn about graph databases: <http://vimeo.com/50787208>
 - Learn about dissent networking, mesh networks, annonymity, and resource allocation and control: <https://www.schneier.com/blog/archives/2013/08/circumventing_c.html>
 - Learn about the recent proposal from Mozilla Labs that puts users in control of content personalization on the Web. <https://air.mozilla.org/user-personalization-up-brownbag/>
