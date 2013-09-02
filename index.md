@@ -8,10 +8,32 @@ Feel compelled to build the tools for a better society?
 Find "your people" hacking the future at our weekly digital unconference.
 
 ### Upcoming Meetups  
-Tuesday, August 27th, 2013   
+Tuesday, September 3rd, 2013   
 7:00 PM PST - 11:00 PM PST  
-Got an idea for a session.  Propose it in our [Google Coordination Doc](https://docs.google.com/spreadsheet/ccc?key=0Aqe_OvhjNeDPdF9iZ0dEaWUxSGlkLVlqT3pDaWJiSmc&usp=sharing).  
+Got an idea for a session?  
+Propose it in our [Google Coordination Doc](https://docs.google.com/spreadsheet/ccc?key=0Aqe_OvhjNeDPdGlvZWpyQUtiT3I1bXdIT1RHazFabmc&usp=sharing).  
    
+Tuesday, September 10th, 2013   
+7:00 PM PST - 11:00 PM PST  
+Got an idea for a session?  
+Propose it in our [Google Coordination Doc](https://docs.google.com/spreadsheet/ccc?key=0Aqe_OvhjNeDPdGhSYVBmX0FnN2pkSFM1UFJ3TXoxSkE&usp=sharing).  
+  
+Tuesday, September 17th, 2013   
+7:00 PM PST - 11:00 PM PST  
+Got an idea for a session?  
+Propose it in our [Google Coordination Doc](https://docs.google.com/spreadsheet/ccc?key=0Aqe_OvhjNeDPdGJTTm5jTHRtS2FNU253dGp5RVdScXc&usp=sharing).  
+  
+Tuesday, September 24th, 2013   
+7:00 PM PST - 11:00 PM PST  
+Got an idea for a session?  
+Propose it in our [Google Coordination Doc](https://docs.google.com/spreadsheet/ccc?key=0Aqe_OvhjNeDPdF9VOEVzWkJNX1hvQ1RfZ3lJQVpBRGc&usp=sharing).  
+  
+Tuesday, October 1st, 2013   
+7:00 PM PST - 11:00 PM PST  
+Got an idea for a session?  
+Propose it in our [Google Coordination Doc](https://docs.google.com/spreadsheet/ccc?key=0Aqe_OvhjNeDPdE1oWS1uQVNoUUtNdURieGhTMUdyYlE&usp=sharing).  
+
+  
 
 Want to participate?  Thinking about hosting a session?  Get all signed up, set up and verified.  A nice little instruction guide on getting set up both for Google Hangouts and to host Hangouts on Air is about halfway down [this article](http://mackwebsolutions.com/blog/2012/08/the-comprehensiveish-guide-to-google-hangouts/). 
   
