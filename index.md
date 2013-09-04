@@ -11,7 +11,7 @@ Find "your people" hacking the future at our weekly digital unconference.
 Tuesday, September 3rd, 2013   
 7:00 PM PST - 11:00 PM PST  
 Got an idea for a session?  
-Propose it in our [Google Coordination Doc](https://docs.google.com/spreadsheet/ccc?key=0Aqe_OvhjNeDPdGlvZWpyQUtiT3I1bXdIT1RHazFabmc&usp=sharing).  
+Propose it in our [Google Coordination Doc](https://docs.google.com/spreadsheet/ccc?key=0Aqe_OvhjNeDPdGlvZWpyQUtiT3I1bXdIT1RHazFabmc&usp=sharing).   
    
 Tuesday, September 10th, 2013   
 7:00 PM PST - 11:00 PM PST  
