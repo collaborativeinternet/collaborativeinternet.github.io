@@ -14,21 +14,14 @@ Tuesday, September 3rd, 2013
 Got an idea for a session?  
 Propose it in our [Google Coordination Doc](https://docs.google.com/spreadsheet/ccc?key=0Aqe_OvhjNeDPdGlvZWpyQUtiT3I1bXdIT1RHazFabmc&usp=sharing).   
    
-Tuesday, September 10th, 2013   
-7:00 PM PST - 11:00 PM PST  
-Got an idea for a session?  
-Propose it in our [Google Coordination Doc](https://docs.google.com/spreadsheet/ccc?key=0Aqe_OvhjNeDPdGhSYVBmX0FnN2pkSFM1UFJ3TXoxSkE&usp=sharing).  
-  
+   
+   
 Tuesday, September 17th, 2013   
 7:00 PM PST - 11:00 PM PST  
 Got an idea for a session?  
 Propose it in our [Google Coordination Doc](https://docs.google.com/spreadsheet/ccc?key=0Aqe_OvhjNeDPdGJTTm5jTHRtS2FNU253dGp5RVdScXc&usp=sharing).  
   
-Tuesday, September 24th, 2013   
-7:00 PM PST - 11:00 PM PST  
-Got an idea for a session?  
-Propose it in our [Google Coordination Doc](https://docs.google.com/spreadsheet/ccc?key=0Aqe_OvhjNeDPdF9VOEVzWkJNX1hvQ1RfZ3lJQVpBRGc&usp=sharing).  
-  
+
 Tuesday, October 1st, 2013   
 7:00 PM PST - 11:00 PM PST  
 Got an idea for a session?  
