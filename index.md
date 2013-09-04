@@ -10,6 +10,7 @@ Find "your people" hacking the future at our weekly digital unconference.
 ### Upcoming Meetups  
 Tuesday, September 3rd, 2013   
 7:00 PM PST - 11:00 PM PST  
+[Join the Hangout](https://plus.google.com/hangouts/_/0939068ce8c2ca059699d06eae95c23be9c58dcd?authuser=1&hl=en)  
 Got an idea for a session?  
 Propose it in our [Google Coordination Doc](https://docs.google.com/spreadsheet/ccc?key=0Aqe_OvhjNeDPdGlvZWpyQUtiT3I1bXdIT1RHazFabmc&usp=sharing).   
    
