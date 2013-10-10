@@ -8,16 +8,16 @@ Feel compelled to build the tools for a better society?
 Find "your people" hacking the future at our weekly digital unconference.
 
 ### Upcoming Meetups  
-Tuesday, September 17th, 2013   
+Tuesday, October 15th, 2013   
 7:00 PM PST - 11:00 PM PST  
 Got an idea for a session?  
-Propose it in our [Google Coordination Doc](https://docs.google.com/spreadsheet/ccc?key=0Aqe_OvhjNeDPdGJTTm5jTHRtS2FNU253dGp5RVdScXc&usp=sharing).  
+Propose it in our [Google Coordination Doc](https://docs.google.com/spreadsheet/ccc?key=0Aqe_OvhjNeDPdHdOMkFDeDJvTE9FRmlSSk5xcTVLZWc&usp=sharing).  
   
 
-Tuesday, October 1st, 2013   
+Tuesday, October 29th, 2013   
 7:00 PM PST - 11:00 PM PST  
 Got an idea for a session?  
-Propose it in our [Google Coordination Doc](https://docs.google.com/spreadsheet/ccc?key=0Aqe_OvhjNeDPdE1oWS1uQVNoUUtNdURieGhTMUdyYlE&usp=sharing).  
+Propose it in our [Google Coordination Doc](https://docs.google.com/spreadsheet/ccc?key=0Aqe_OvhjNeDPdFZHSzB0NlJ1TVpWWmdVOVdMR0FvVGc&usp=sharing).  
 
   
 
