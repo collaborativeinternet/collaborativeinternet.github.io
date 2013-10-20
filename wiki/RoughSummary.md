@@ -8,10 +8,12 @@ published: true
   
 Build the Collaborative Internet started as an informal meetup group in February 2013.  Founded by Matthew Schutte after he had stumbled upon several brilliant thinkers that were pursuing work that coincided with his vision of where the world, and the web, should be headed.  
 
-The founding was inspired, most notably by conversations with:
-Harlan Wood
-Jack Senechal
-and Scott Albritton
+The founding was inspired, most notably by conversations with:  
+Harlan Wood  
+Jack Senechal  
+Carter Thaxton  
+Phil Schatz  
+and Scott Albritton  
 
 As Jack summarized after one of our meetings in March 2013:
   
