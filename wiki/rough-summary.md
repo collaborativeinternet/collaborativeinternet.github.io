@@ -3,9 +3,9 @@ layout: default
 published: true
 ---
 
-##COLLABORATIVE INTERNET
-###A Rough Summary
-
+##COLLABORATIVE INTERNET  
+###A Rough Summary  
+  
 Build the Collaborative Internet started as an informal meetup group in February 2013.  Founded by Matthew Schutte after he had stumbled upon several brilliant thinkers that were pursuing work that coincided with his vision of where the world, and the web, should be headed.  
 
 The founding was inspired, most notably by conversations with:
