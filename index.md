@@ -8,7 +8,7 @@ Feel compelled to build the tools for a better society?
 Find "your people" hacking the future at our weekly digital unconference.
 
 To learn a bit more about what we are up to, you can check out previous meetup materials in the [Archives](http://collaborativeinter.net/wiki/archives.html) or look at this [Rough Summary](http://collaborativeinter.net/wiki/RoughSummary.html) from one of our early discussions. 
-
+  
 ### Upcoming Meetups  
 
 Tuesday, October 29th, 2013   
