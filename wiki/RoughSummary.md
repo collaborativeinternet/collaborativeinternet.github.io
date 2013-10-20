@@ -50,9 +50,13 @@ Things we need to build
   
 Since that discussion, new insights have emerged, including clarity on how privacy and transparency can be balanced, not by formal policies, but by decentralized enforcement of informal norms.  Other insights have included security management based on capabilities as well as general outlines for the structure of a distributed network of graphs and indexes with publication and subscription under the control of each individual user.  
 
-Don't know what all of that means?  That's OK.  Neither did we.  We figuring this stuff out as we go along.  
+Don't know what all of that means?  
+That's OK.  Neither did we.  
+We're figuring this stuff out as we go along.
+  
 Please join in on the conversation.   
 Attend an upcoming Digital Unconference and help us find our way forward.  
-  
+
+Thanks,  
 -Matthew Schutte  
 10/20/2013
