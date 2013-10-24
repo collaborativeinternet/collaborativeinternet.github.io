@@ -15,7 +15,7 @@ Thursday, October 24th, 2013
 IIW working session
 Honing the Digital Unconference Structure  
 [Google Coordination Doc](https://docs.google.com/spreadsheet/ccc?key=0Aqe_OvhjNeDPdEJQbVQ5djd4a21NUXplN2lUaUxhUkE&usp=sharing)
-
+[Hangout Video - intro to this Digital Unconference Structure](http://youtu.be/07GrbgcNal4	)
 
 Tuesday, October 29th, 2013   
 7:00 PM PST - 11:00 PM PST  
