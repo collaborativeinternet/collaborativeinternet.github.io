@@ -15,7 +15,7 @@ Tuesday, October 29th, 2013
 7:00 PM PST - 11:00 PM PST  
 Links:  
 [JOIN THE HANGOUT](http://youtu.be/U4pDofWjuEo)   
-[Google Coordination Doc](https://docs.google.com/spreadsheet/ccc?key=0Aqe_OvhjNeDPdFZHSzB0NlJ1TVpWWmdVOVdMR0FvVGc&usp=sharing).   
+[COORDINATION DOC](https://docs.google.com/spreadsheet/ccc?key=0Aqe_OvhjNeDPdFZHSzB0NlJ1TVpWWmdVOVdMR0FvVGc&usp=sharing)   
 
   
 
