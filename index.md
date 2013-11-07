@@ -12,12 +12,6 @@ To learn a bit more about what we are up to, you can check out previous meetup m
 ### Upcoming Meetups  
 
 DIGITAL UNCONFERENCE  
-Tuesday, October 29th, 2013   
-7:00 PM PST  
-THAT's A WRAP!   
-  
-  
-DIGITAL UNCONFERENCE  
 Tuesday, November 12th, 2013   
 7:00 PM PST  
 Propose sessions in our  
