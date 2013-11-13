@@ -14,6 +14,7 @@ To learn a bit more about what we are up to, you can check out previous meetup m
 DIGITAL UNCONFERENCE  
 Tuesday, November 12th, 2013   
 7:00 PM PST  
+Join the [HANGOUT](https://plus.google.com/hangouts/_/7ecpj6r1ohaakuqb4jclvg0gv0?authuser=0&hl=en	)  
 Propose sessions in our  
 [Coordination Doc](https://docs.google.com/spreadsheet/ccc?key=0Aqe_OvhjNeDPdFZHSzB0NlJ1TVpWWmdVOVdMR0FvVGc&usp=sharing#gid=0)  
 
