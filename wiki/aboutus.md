@@ -7,7 +7,7 @@ WHY:
 We are working to build an information architecture that will enable communities of all sizes, all the way up to global scale, to self-regulate more effectively.  Tne goal is not to make these communities perfect or free from trouble, we don't believe that is feasible.  Rather the goal is to improve these communities abilities to "self-heal" by equipping individuals with information that they find readable, reliable and relevant, to better navigate the world.  
 
 WHAT:  
-The members of Build the Collaborative Internet are working to build protocols and applications that will give users access to collaboratively created – yet custom filtered – information that is pulled from across the internet to deliver Relevant, Reliable and Readable information.
+The members of Build the Collaborative Internet are working to build protocols and applications that will give users access to collaboratively created – yet custom filtered – information that is pulled from across the internet to deliver Relevant, Reliable and Readable information.  
 When I walk into a grocery store, I will be able to pull out my smart phone and scan the barcode on a bag of potato chips using a collaborative internet powered application. Based on my user preferences, the application will return a handful of items:  
 1) a graph comparing these chips and the three most popular alternatives with info on price, calories per bag and the average “taste” rating.  
 2) a map displaying the cheapest place to buy each of these 4 options in my neighborhood  
