@@ -14,6 +14,7 @@ To learn a bit more about what we are up to, you can read our [About Us](http://
 DIGITAL UNCONFERENCE  
 Tuesday, December 17th, 2013   
 7:00 PM PST  
+sign up via our [google event page](https://plus.google.com/events/c0bjm93vgjifi1hug1qt5bf7jb0).
 Propose sessions in our  
 [Coordination Doc](https://docs.google.com/spreadsheet/ccc?key=0Aqe_OvhjNeDPdDhaN1ZGcnJJd3pTTVZHUXdxUXYyRnc#gid=0)  
 
