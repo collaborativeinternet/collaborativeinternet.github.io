@@ -3,10 +3,10 @@ layout: default
 published: true
 ---  
 ##About Us  
-WHY:  
+###WHY:  
 We are working to build an information architecture that will enable communities of all sizes, all the way up to global scale, to self-regulate more effectively.  Tne goal is not to make these communities perfect or free from trouble, we don't believe that is feasible.  Rather the goal is to improve these communities abilities to "self-heal" by equipping individuals with information that they find readable, reliable and relevant, to better navigate the world.  
 
-WHAT:  
+###WHAT:  
 The members of Build the Collaborative Internet are working to build protocols and applications that will give users access to collaboratively created – yet custom filtered – information that is pulled from across the internet to deliver Relevant, Reliable and Readable information.  
   
 When I walk into a grocery store, I will be able to pull out my smart phone and scan the barcode on a bag of potato chips using a collaborative internet powered application. Based on my user preferences, the application will return a handful of items:  
@@ -30,14 +30,14 @@ RE-SHARE: publish in any way that complies with “upstream content's” permiss
    
 To put it another way: Take the pieces that you like. Ignore the stuff you don't. Remix it any way you want. Repeat.   
 
-HOW:   
+###HOW:   
 Currently members of the community are designing a number of layers that are critical to the delivery of this vision, including   
 1) a structure for enabling identification and discovery of content on the basis of the content itself rather than on the basis of location,   
 2) a graph database management system that relies upon that content based addressing system,   
 3) a publish / subscribe protocol that will populate a distributed network of graph databases and indexes in accordance with the publication, licensing, privacy and other preferences of users and  
 4) user interface tools to improve the ease of navigating graph data.  
     
-WHO:    
+###WHO:    
 We have a community of software developers, user experience designers, computer security experts and at least one political theorist that are working to make this vision a reality.  At it's core, this is not just a software project, it is a movement.  We are trying to build an infrastructure that will enable whole new types of coordination and result in new models for business, governance and social impact.   
   
 We are in need of skill-sets of all types: story tellers, film-makers, business model designers, intellectual property lawyers and people with experience in fundraising both from venture capital as well as from impact focused capital (government or philanthropic sources).  If you are interested in getting involved in building out the Collaborative Internet, you can  
