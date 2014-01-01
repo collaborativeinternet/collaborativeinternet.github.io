@@ -11,11 +11,13 @@ To learn a bit more about what we are up to, you can read our [About Us](http://
   
 ### Upcoming Meetups  
 
-<b>BtCI Mixer</b>  
-Drinks. Amazing People. Two hours. One room.  
+<b>BtCI Mixer  
+Drinks. Amazing People. Two hours. One room.</b>   
+  
 Wednesday, January 22nd, 2013   
 8:00 PM - 10:00 PM   
-   
+    
+  
 TechShop San Francisco   
 926 Howard Street   
 San Francisco, CA 94103    
