@@ -11,7 +11,7 @@ To learn a bit more about what we are up to, you can read our [About Us](http://
   
 ### Upcoming Meetups  
 
-BtCI Mixer
+#BtCI Mixer  
 Drinks. Amazing People. Two hours. One room.
 Wednesday, January 22nd, 2013   
 8:00 PM - 10:00 PM  
