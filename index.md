@@ -11,15 +11,14 @@ To learn a bit more about what we are up to, you can read our [About Us](http://
   
 ### Upcoming Meetups  
 
-DIGITAL UNCONFERENCE  
-Tuesday, December 17th, 2013   
-7:00 PM PST  
-[JOIN THE HANGOUT NOW!](https://plus.google.com/hangouts/_/hoaevent/AP36tYdb7-sJzT7iIjLN56q6ArIj9kUEThagLixfNgrvIqv63Ns2bA?authuser=1&hl=en)    
-Propose sessions in our [Coordination Doc](https://docs.google.com/spreadsheet/ccc?key=0Aqe_OvhjNeDPdDhaN1ZGcnJJd3pTTVZHUXdxUXYyRnc#gid=0)  
+BtCI Party!
+Wednesday, January 22nd, 2013   
+8:00 PM - 10:00 PM
 
-LIVE STREAM
-<iframe width="420" height="315" src="http://www.youtube.com/embed/1BRA4XkgmXA" frameborder="0" allowfullscreen></iframe>
+TechShop Gallery
+910 Howard Street
+San Francisco, CA 94103
 
+Free!  
 
-Want to participate?  Thinking about hosting a session?  
-Get all signed up, set up and verified.  A nice little instruction guide on getting set up both for Google Hangouts and to host Hangouts on Air is about halfway down [this article](http://mackwebsolutions.com/blog/2012/08/the-comprehensiveish-guide-to-google-hangouts/). 
+Bring good people.
