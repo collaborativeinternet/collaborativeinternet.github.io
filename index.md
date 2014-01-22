@@ -15,7 +15,7 @@ To learn a bit more about what we are up to, you can read our [About Us](http://
 Drinks. Amazing People. Two hours. One room.</b>   
   
 Wednesday, January 22nd, 2013   
-8:00 PM - 10:00 PM   
+7:00 PM - 9:00 PM   
     
   
 TechShop San Francisco   
