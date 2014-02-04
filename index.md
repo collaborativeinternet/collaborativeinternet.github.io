@@ -18,7 +18,7 @@ Tuesday, February 4th, 2014
 The Hangout link will be posted below video window at 6:45 pm.  
 Propose sessions in our [Coordination Doc](https://docs.google.com/spreadsheet/ccc?key=0Aqe_OvhjNeDPdHQ5bEotVy0xOGYyRW9QR25QOHQ5Zmc#gid=0)  
   
-  
+...  
   
 <b>BtCI 90 minute Digital Unconference    
 Tuesday, February 11th, 2014   
@@ -27,7 +27,7 @@ Tuesday, February 11th, 2014
 The Hangout link will be posted below video window at 6:45 pm.  
 Propose sessions in our [Coordination Doc](https://docs.google.com/spreadsheet/ccc?key=0Aqe_OvhjNeDPdHF4b2pfaDVHUzYzSktEZ0xhRTBmdUE#gid=0)  
   
-  
+...  
   
 <b>BtCI 90 minute Digital Unconference   
 Tuesday, February 18th, 2014   
