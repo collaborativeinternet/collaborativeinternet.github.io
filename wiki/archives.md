@@ -5,7 +5,7 @@ published: true
 
 ##Archives
 ###These are the text and video materials from past Digital Unconferences
-[BtCI   |  February 4th, 2014]()  
+[BtCI   |  February 4th, 2014](http://collaborativeinter.net/wiki/BtCI_2014-02-04.html)  
 [BtCI   |  December 17th, 2013](http://collaborativeinter.net/wiki/BtCI_2013-12-17.html)  
 [IIW   |  October 24th, 2013](http://collaborativeinter.net/wiki/iiw_2013-10-24.html)  
 [BtCI  |  October 15th, 2013](http://collaborativeinter.net/wiki/BtCI_2013-10-15.html)    
