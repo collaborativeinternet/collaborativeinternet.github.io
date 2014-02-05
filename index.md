@@ -41,6 +41,6 @@ Propose sessions in our [Coordination Doc](https://docs.google.com/spreadsheet/c
 <b>BtCI Build Day
 Saturday, March 1st, 2014
 9:00 AM - 7:00 PM</b>  
-[TechShop San Francisco](https://www.google.com/maps/preview/place/TechShop+San+Francisco/@37.7810458,-122.405751,17z/data=!3m1!4b1!4m2!3m1!1s0x80858086b45dd233:0xbfb32e1028ab3c3a)
-926 Howard Street
-San Francisco, CA 94103
+[TechShop San Francisco](https://www.google.com/maps/preview/place/TechShop+San+Francisco/@37.7810458,-122.405751,17z/data=!3m1!4b1!4m2!3m1!1s0x80858086b45dd233:0xbfb32e1028ab3c3a)  
+926 Howard Street  
+San Francisco, CA 94103  
