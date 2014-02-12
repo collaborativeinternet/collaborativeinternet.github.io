@@ -16,7 +16,7 @@ To learn a bit more about what we are up to, you can read our [About Us](http://
 Tuesday, February 11th, 2014   
 7:00 PM - 8:30 PM</b>   
 [Sign up for the Unconference](https://plus.google.com/u/1/events/cg8bhuf84q6or8kugt4etkb8e80)  
-The Hangout link will be posted below video window at 6:45 pm.  
+[Join The Hangout](https://plus.google.com/hangouts/_/hoaevent/AP36tYdiksyb8dQMG-1LwCTczky92qpl7z1jlGtkZBAMCCs9q3tzmA?authuser=1&hl=en)    
 Propose sessions in our [Coordination Doc](https://docs.google.com/spreadsheet/ccc?key=0Aqe_OvhjNeDPdHF4b2pfaDVHUzYzSktEZ0xhRTBmdUE#gid=0)  
   
 .  
