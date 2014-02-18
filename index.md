@@ -10,7 +10,8 @@ Find "your people" hacking the future at our bi-weekly digital unconference.
 To learn a bit more about what we are up to, you can read our [About Us](http://collaborativeinter.net/wiki/aboutus.html) page or watch videos from previous meetups in the [Archives](http://collaborativeinter.net/wiki/archives.html). 
   
 ### Upcoming Meetups  
-
+(all times pacific time)  
+  
 <b>BtCI 90 minute Digital Unconference   
 Tuesday, February 18th, 2014   
 7:00 PM - 8:30 PM</b>   
