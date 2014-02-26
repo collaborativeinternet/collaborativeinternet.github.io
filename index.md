@@ -15,9 +15,9 @@ To learn a bit more about what we are up to, you can read our [About Us](http://
 <b>BtCI 90 minute Digital Unconference    
 Tuesday, February 25th, 2014      
 7:00 PM - 8:30 PM</b>   
-[Sign up for the Unconference](https://plus.google.com/u/1/events/caf8mkj00tc9vlbjqc68bpnsscs)  
+[Sign up for the Unconference](https://plus.google.com/u/1/events/ciimi6vt3ggc5s04dem2h6f4td4)  
 The Hangout link will be posted below video window at 6:45 pm.  
-Propose sessions in our [Coordination Doc](https://docs.google.com/spreadsheet/ccc?key=0Aqe_OvhjNeDPdHQ5bEotVy0xOGYyRW9QR25QOHQ5Zmc#gid=0)  
+Propose sessions in our [Coordination Doc](https://docs.google.com/spreadsheet/ccc?key=0Aqe_OvhjNeDPdFhQd0hGU0hEYlZ5V25qVi1rYkhBT3c#gid=0)   
   
 .  
   
